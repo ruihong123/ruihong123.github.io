@@ -27,8 +27,8 @@ Work experience
 
 Selected publications
 =====
-* **Ruihong Wang**, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.
-[The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.](https://link-url-here.org)
+* **Ruihong Wang**, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.<br> 
+[The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.](https://link-url-here.org)<br> 
 Proceedings of Very Large Data Bases Conference (VLDB), pages 15-22, 2023.
 
   
