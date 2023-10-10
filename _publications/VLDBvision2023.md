@@ -1,6 +1,5 @@
 ---
 title: "The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation."
-collection: VLDB 2023
 permalink: "https://www.vldb.org/pvldb/vol16/p15-wang.pdf"
 ---
 
