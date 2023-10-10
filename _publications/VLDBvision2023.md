@@ -8,5 +8,7 @@ venue:
 paperurl: 
 citation: 
 ---
+
 Ruihong Wang, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.
+
 [pdf](https://www.vldb.org/pvldb/vol16/p15-wang.pdf)
