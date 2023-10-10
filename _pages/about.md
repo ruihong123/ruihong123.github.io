@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research intern
-  * Alibaba in the US
+* Summer 2023: Research intern
+  * Alibaba US
   * Project: Level-2 caching in PolarDB
   * Supervisor: Rui Wang
 
