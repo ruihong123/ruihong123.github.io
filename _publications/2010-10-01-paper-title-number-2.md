@@ -1,6 +1,6 @@
 ---
 title: "Optimizing LSM-based Indexes for Disaggregated Memory"
-collection: publications
+collection: VLDBJ
 permalink: 
 excerpt: 
 date: 
@@ -8,8 +8,7 @@ venue:
 paperurl: 
 citation: 
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Ruihong Wang, Chuqing Gao, Jianguo Wang, Prishita Kadam, M. Tamer Özsu, Walid G. Aref.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here]()
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
