@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "CS505 Distributed System"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Core course"
+permalink: /teaching/CS505
+venue: ""
+date: 2021 Spring, 2022 Spring
+location: "West Lafayette"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
