@@ -28,7 +28,7 @@ Research
 =====
 My research interests lie in database systems and distributed computing. I have ongoing projects on the develop of cloud-native databases with disaggregated memory.
 
-Selected publications
+Publications
 =====
 * **Ruihong Wang**, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.<br> 
 [The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.]([https://link-url-here.org](https://www.vldb.org/pvldb/vol16/p15-wang.pdf))<br> 
