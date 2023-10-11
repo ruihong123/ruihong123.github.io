@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruihong Wang (王睿鸿). A Ph.D student at purdue, co-advised by Professor Walid Aref and Jianguo Wang.
+My name is Ruihong Wang (王睿鸿). A Ph.D student at Purdue, co-advised by Professor Walid Aref and Jianguo Wang. Before coming to Purdue, I got my master of science in computer engineering at Texas A&M University. 
 
+A Boilermaker & An Aggie!
+
+Research
+=====
+My research interests lie in database systems and distributed computing. I have ongoing projects on the develop of cloud-native databases with disaggregated memory.
 
 Education
 =====
@@ -23,12 +28,8 @@ Work experience
   * Alibaba US
   * Project: Level-2 caching in PolarDB
   * Supervisor: Rui Wang
-    
-Research
-=====
-My research interests lie in database systems and distributed computing. I have ongoing projects on the develop of cloud-native databases with disaggregated memory.
 
-Publications
+Selected publications
 =====
 * **Ruihong Wang**, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.<br> 
 [The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.]([https://link-url-here.org](https://www.vldb.org/pvldb/vol16/p15-wang.pdf))<br> 
