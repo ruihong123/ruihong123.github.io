@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Ruihong Wang (王睿鸿). A Ph.D student at Purdue, co-advised by Professor Walid Aref and Jianguo Wang. Before coming to Purdue, I got my master of science in computer engineering at Texas A&M University. 
+My name is Ruihong Wang (王睿鸿). A Ph.D student at Purdue, co-advised by Prof. Walid Aref and Jianguo Wang. Before coming to Purdue, I got my master of science in computer engineering at Texas A&M University. 
 
 A Boilermaker & An Aggie!
 
