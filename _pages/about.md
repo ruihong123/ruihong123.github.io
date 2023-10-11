@@ -14,13 +14,13 @@ A Boilermaker & An Aggie!
 
 Research
 =====
-My research interests lie in database systems and distributed computing. I have ongoing projects on the develop of cloud-native databases with disaggregated memory.
+My current research interests lie in database systems and distributed computing. I also have research experiences in machine learning as well as data mining.
 
 Education
 =====
 * B.S. in Electrical Engineering, Jilin University, 2018
 * M.S. in Computer Engineering, Texas A&M University, 2020
-* Ph.D in Computer Science, Purdue University, 2025 (expected)
+* Ph.D. in Computer Science, Purdue University, 2025 (expected)
 
 Work experience
 =====
