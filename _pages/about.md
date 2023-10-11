@@ -40,3 +40,5 @@ Proceedings of International Conference on Data Engineering (ICDE), pages 2835-2
 * **Ruihong Wang**, Chuqing Gao, Jianguo Wang, Prishita Kadam, M. Tamer Özsu, Walid G. Aref.
 Optimizing LSM-based Indexes for Disaggregated Memory.
 Very Large Data Base Journal (VLDBJ), Under Revision, 2023.
+
+**For more publications, please check my [Google scholar page](https://scholar.google.com/citations?user=7vccd-kAAAAJ&hl=en)**
