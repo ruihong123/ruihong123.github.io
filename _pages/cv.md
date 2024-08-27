@@ -22,4 +22,4 @@ Work experience
   * Duties included: Research intern
   * Supervisor: Rui Wang
 
-[a relative link](other_file.md)
+[a relative link](files/paper1.pdf)
