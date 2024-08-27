@@ -8,5 +8,7 @@ main:
     url: /awards/
   - title: "CV"
     url: /cv/
+  - title: "Test"
+    url: /test/
   - title: "More about me"
     url: /markdown/
