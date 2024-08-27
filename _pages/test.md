@@ -3,8 +3,8 @@ permalink: /test/
 title: "Test"
 author_profile: true
 redirect_from: 
-  - /test/
-#  - /test.html
+#  - /test/
+  - /test.html
 ---
 
 Test test test
