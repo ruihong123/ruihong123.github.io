@@ -2,15 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/      
-    
   - title: "Teaching"
     url: /teaching/    
-
   - title: "Awards"
     url: /awards/
-    
   - title: "CV"
     url: /cv/
-    
   - title: "More about me"
     url: /markdown/
