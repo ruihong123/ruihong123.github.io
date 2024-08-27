@@ -39,6 +39,6 @@ Selected publications
 * **Ruihong Wang**, Jianguo Wang, Prishita Kadam, M. Tamer Özsu, Walid G. Aref.<br> 
 [dLSM: An LSM-Based Index for Memory Disaggregation.](https://ieeexplore.ieee.org/document/10184823)<br> Proceedings of International Conference on Data Engineering (ICDE), pages 2835-2849, 2023.
 * **Ruihong Wang**, Chuqing Gao, Jianguo Wang, Prishita Kadam, M. Tamer Özsu, Walid G. Aref.
-[Optimizing LSM-based Indexes for Disaggregated Memory.](https://link.springer.com/article/10.1007/s00778-024-00863-y) Very Large Data Base Journal (VLDBJ), Under Revision, 2023.
+[Optimizing LSM-based Indexes for Disaggregated Memory.](https://link.springer.com/article/10.1007/s00778-024-00863-y) The VLDB Journal (2024).
 
 **For more publications, please check my [Google scholar page](https://scholar.google.com/citations?user=7vccd-kAAAAJ&hl=en)**
