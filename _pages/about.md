@@ -14,7 +14,7 @@ A Boilermaker & An Aggie!
 
 Research
 =====
-My research interests lie in cloud native databases and distributed computing. I also have research experiences in machine learning and data mining.
+My research interests lie in cloud native databases and distributed computing. I also have some research experiences in machine learning during my master journey.
 
 Education
 =====
@@ -35,6 +35,7 @@ Work experience
   
 Selected publications
 =====
+* **Ruihong Wang**, Jianguo Wang, Walid G. Aref. [SELCC: Coherent Caching over Compute-Limited Disaggregated Memory.](https://arxiv.org/abs/2409.02088)CoRR abs/2409.02088 
 * **Ruihong Wang**, Jianguo Wang, Stratos Idreos, M. Tamer Özsu, Walid G. Aref.<br> [The Case for Distributed Shared-Memory Databases with RDMA-Enabled Memory Disaggregation.](https://www.vldb.org/pvldb/vol16/p15-wang.pdf)<br> Proceedings of Very Large Data Bases Conference (VLDB), pages 15-22, 2023.
 * **Ruihong Wang**, Jianguo Wang, Prishita Kadam, M. Tamer Özsu, Walid G. Aref.<br> 
 [dLSM: An LSM-Based Index for Memory Disaggregation.](https://ieeexplore.ieee.org/document/10184823)<br> Proceedings of International Conference on Data Engineering (ICDE), pages 2835-2849, 2023.
